@@ -1,0 +1,13 @@
+CERN Open Hardware Licence — Permissive (OHL-P) Version 2
+
+This project’s hardware is licensed under the CERN Open Hardware Licence — Permissive version 2 (OHL-P v2).
+
+Short summary:
+- You are free to use, copy, modify, distribute, and make Derivative Works of the licensed material.
+- You may distribute under different terms, but you must preserve the copyright notices and provide attribution.
+- The licence is permissive and intended for open hardware projects. It permits commercial use and re-distribution.
+
+Full license text and authoritative details are available from the CERN OHL project pages:
+https://ohwr.org/project/cernohl/wikis/Doc-2.0
+
+SPDX-License-Identifier: CERN-OHL-P-2.0

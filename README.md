@@ -69,25 +69,6 @@ Use Meshroom/COLMAP for high‑res texture and detail.
 - Final Fusion
 Combine depth + photogrammetry for the best of both worlds.
 
-🏗️ Repository Structure
-3d-scanner/
-├── LICENSES/
-├── config/
-├── hardware/
-│   ├── esp32_turntable/
-│   └── mechanical/
-│       ├── arc_stand/
-│       ├── camera_mount/
-│       ├── laser_mount/
-│       ├── turntable/
-│       └── calibration_jigs/
-├── python/
-├── data/
-└── output/
-
-
-Each folder is documented and structured for clarity and ease of contribution.
-
 🔓 Licensing
 To keep the project maximally open:
 - Software is licensed under Apache 2.0
