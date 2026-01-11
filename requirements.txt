@@ -1,0 +1,5 @@
+opencv-python>=4.5
+numpy>=1.23
+open3d>=0.16
+requests>=2.28
+pyyaml>=6.0

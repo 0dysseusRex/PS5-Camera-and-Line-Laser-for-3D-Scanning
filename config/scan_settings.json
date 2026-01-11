@@ -1,0 +1,8 @@
+{
+  "poses": ["low", "mid", "high"],
+  "degrees_per_step": 10,
+  "intrinsics_dir": "config",
+  "laser_planes_dir": "config",
+  "turntable_base_url": "http://192.168.4.1",
+  "camera_index": 0
+}
